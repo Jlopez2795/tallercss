@@ -1,0 +1,14 @@
+
+
+
+
+
+
+#menu{
+  padding: 5px 15px;
+  }
+  #menu li{
+      display:inline-block;
+      list-style: none;
+      padding:5px;
+  }
